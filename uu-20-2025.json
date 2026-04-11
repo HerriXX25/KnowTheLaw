@@ -1,0 +1,28 @@
+{
+  "id": "uu-20-2025",
+  "judul": "Kitab Undang-Undang Hukum Acara Pidana",
+  "nomor": "UU No. 20/2025",
+  "singkatan": "KUHAP",
+  "kategori": "Undang-Undang",
+  "tahun": 2025,
+  "tentang": "Hukum acara pidana yang mengatur tata cara penegakan hukum pidana materiil, mulai dari penyelidikan, penyidikan, penuntutan, hingga pemeriksaan di sidang pengadilan.",
+  "file_pdf": "pdfs/uu-20-2025.pdf",
+  "tags": ["Penyelidikan", "Penyidikan", "Penuntutan", "Penahanan", "Praperadilan", "Pembuktian", "Upaya Hukum"],
+  "bab": [
+    {
+      "id": "bab-1",
+      "nomor": "I",
+      "judul": "Ketentuan Umum",
+      "pasal": [
+        {
+          "id": "pasal-1",
+          "nomor": "1",
+          "judul": "Pengertian",
+          "tags": ["Penyelidikan", "Penyidikan"],
+          "bunyi": "Pasal 1\nDalam undang-undang ini yang dimaksud dengan: [Konten pasal akan diisi sesuai dokumen resmi]",
+          "penjelasan": "Penjelasan pasal akan diisi sesuai dokumen resmi UU No. 20/2025 (KUHAP)."
+        }
+      ]
+    }
+  ]
+}
