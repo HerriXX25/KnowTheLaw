@@ -1,0 +1,20 @@
+{
+  "kategori": [
+    {
+      "id": "undang-undang",
+      "label": "Undang-Undang",
+      "subkategori": [
+        { "id": "uu-1-2023",  "label": "UU No. 1/2023 (KUHP)",               "file": "data/uu-1-2023.json"  },
+        { "id": "uu-1-2026",  "label": "UU No. 1/2026 (Penyesuaian Pidana)",  "file": "data/uu-1-2026.json"  },
+        { "id": "uu-20-2025", "label": "UU No. 20/2025 (KUHAP)",              "file": "data/uu-20-2025.json" },
+        { "id": "kuhperdata", "label": "KUHPerdata",                           "file": "data/kuhperdata.json" }
+      ]
+    },
+    {
+      "id": "sema",
+      "label": "SEMA",
+      "subkategori": []
+    }
+  ],
+  "tahun_range": { "dari": 2010, "sampai": 2026 }
+}
